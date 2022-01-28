@@ -1,0 +1,26 @@
+{
+  "name": "get-steam-user",
+  "version": "1.0.4",
+  "description": "Retrieves the local steam users and steam ids on a windows machine",
+  "main": "index.js",
+  "author": "Jamie Nichols",
+  "license": "ISC",
+  "dependencies": {
+    "simple-vdf2": "^1.2.1",
+    "windows-drive-letters": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jleelove/get-steam-user.git"
+  },
+  "keywords": [
+    "steam",
+    "steam user",
+    "steamid",
+    "steam username",
+    "steam userinfo",
+    "windows steam",
+    "config.vdf",
+    "loginusers.vdf"
+  ]
+}
