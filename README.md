@@ -1,7 +1,8 @@
 # get-steam-user
 
 retrieves a list of steam users and their steam ids from the local machine. 
-perfect for desktop apps looking to get information about a steam user.
+perfect for desktop apps looking to get information about a steam user. Edit by Guillerp
+using regedit to find the correct path.
 
 # 💿 Installation
 
